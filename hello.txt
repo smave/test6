@@ -1,6 +1,10 @@
 hello atguigu! hello git! 2222222222222
 hello atguigu! hello git!3333333
+<<<<<<< HEAD
 hello atguigu! hello git! hot-fix master hotfix
+=======
+hello atguigu! hello git! hot-fix  hotfix1
+>>>>>>> hot-fix
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
